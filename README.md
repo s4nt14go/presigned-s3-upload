@@ -1,4 +1,4 @@
-# presigned-s3-upload
+# presigned-s3-upload 
 Examples of uploading to S3 using presigned URLs and presigned POST.  
 
 This repo has an accompanying blog post: [S3 Uploads - Proxies vs Presigned URLs vs Presigned POSTs](https://medium.com/@zaccharles/9661e2b37932).
